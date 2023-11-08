@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is my personal account where I tinker around with random stuff 🔭.
+
+GitHub account that I use at work 💼 👉 https://github.com/disalechinmay-work
+
 <!--
 **disalechinmay/disalechinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
